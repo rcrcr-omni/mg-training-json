@@ -1,12 +1,12 @@
 {
   "bank":"Nationwide",
   "accounts": [
-    {"current_account":[
+    {"current_account":
       {"balance":"683.53"}
-    ]},
-    {"savings_account":[
+    },
+    {"savings_account":
       {"balance":"1200"}
-    ]}
+    }
   ],
   "key":"A034K1MN"
 }
