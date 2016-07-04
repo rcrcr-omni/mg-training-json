@@ -1,8 +1,11 @@
 {
   "bank":"Barclaycard",
   "accounts": [
-    {"creditcard":
-      {"balance":"-980.80"}
+    {"details":
+      {
+        "name": "Credit Card",
+        "balance":"-877.99"
+      }
     }
   ],
   "key":"Q50PP378"
