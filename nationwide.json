@@ -1,18 +1,14 @@
 {
   "bank":"Nationwide",
   "accounts": [
-    {"details":
       {
         "name": "Current Account",
         "balance":"683.53"
-      }
-    },
-    {"details":
+      },
       {
         "name": "Savings Account",
         "balance":"1200"
       }
-    }
   ],
   "key":"A034K1MN"
 }
